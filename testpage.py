@@ -107,4 +107,5 @@ class OperationsHelper(BasePage):
 
     def alert(self):
         alert = self.driver.switch_to.alert
+        logging.info(f"{alert.text}")
         return alert.text
