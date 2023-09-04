@@ -1,0 +1,12 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 5
+implicitly_wait: 3
+username: Marina
+password: 7ba66c645e
+title: title 500
+description: description 500
+content: content 500
+alert_text: Form successfully submitted
+email: Marina@mail.ru
+message: Message text
